@@ -29,5 +29,6 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
+    background: linear-gradient(135deg, #71b7e6,#baa5c2);
 }
 
